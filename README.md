@@ -1,2 +1,2 @@
-# pre-internship-tasks
-JavaScript solutions for Zentrion Technologies pre-internship assignments.
+# JavaScript-Basics 
+My 5 basic JavaScript programs for internship task
